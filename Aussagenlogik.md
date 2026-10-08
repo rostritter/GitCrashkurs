@@ -7,4 +7,4 @@
 .
 .
 .
-Bruder keine Ahnung was das is
+Eine Aussage ist ein Satz mit Wahrheitgehalt
