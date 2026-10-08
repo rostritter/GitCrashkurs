@@ -1,10 +1,1 @@
-.
-.
-.
-.
-.
-.
-.
-.
-.
-Eine Aussage ist ein Satz mit Wahrheitgehalt
+ich hab jetzt noch mal einen neuen erstellt
