@@ -1,11 +1,1 @@
-.
-.
-.
-.
-.
-.
-.
-.
-.
-Eine Aussage ist ein Satz mit Wahrheitgehalt
-Mischa hat branch gemacht
+ich hab jetzt noch mal einen neuen erstellt
